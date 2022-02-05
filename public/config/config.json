@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xd996814399b1a97d746510EDe520EDdd64C070Ea",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xd996814399b1a97d746510ede520eddd64c070ea",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "On Chain Salt Lamps",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 2850000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/7alt2",
+  "SHOW_BACKGROUND": true
+}
+ 

@@ -202,12 +202,12 @@ function App() {
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
         <a href={CONFIG.MARKETPLACE_LINK}>
-          <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
+          <StyledLogo alt={"logo"} src={"/config/images/logo.svg"} />
         </a>
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImg alt={"example"} src={"/config/images/example.gif"} />
+            <StyledImg alt={"example"} src={"/config/images/demo1.svg"} />
           </s.Container>
           <s.SpacerLarge />
           <s.Container
@@ -401,7 +401,7 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <StyledImg
               alt={"example"}
-              src={"/config/images/example.gif"}
+              src={"/config/images/demo2.svg"}
               style={{ transform: "scaleX(-1)" }}
             />
           </s.Container>

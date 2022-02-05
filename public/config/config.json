@@ -7,11 +7,11 @@
     "ID": 4
   },
   "NFT_NAME": "On Chain Salt Lamps",
-  "SYMBOL": "TSNFT",
+  "SYMBOL": "SALTNFT",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
-  "GAS_LIMIT": 2850000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/7alt2",
   "SHOW_BACKGROUND": true

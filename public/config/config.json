@@ -9,9 +9,9 @@
   "NFT_NAME": "On Chain Salt Lamps",
   "SYMBOL": "SALTNFT",
   "MAX_SUPPLY": 1000,
-  "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
-  "GAS_LIMIT": 285000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 200000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/7alt2",
   "SHOW_BACKGROUND": true
